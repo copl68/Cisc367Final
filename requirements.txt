@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib.pyplot
+seaborn
+textblob
+sklearn.cluster
+scipy
+statsmodels.multivariate.manova
+datetime
+warnings
